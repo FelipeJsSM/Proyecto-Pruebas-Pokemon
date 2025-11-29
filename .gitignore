@@ -1,15 +1,11 @@
 Pokedex/node_modules/
 Pokedex/.env
-Pokedex/npm-debug.log
-Pokedex/yarn.lock
 
 pokemon-tests/venv/
 pokemon-tests/.pytest_cache/
 pokemon-tests/__pycache__/
+__pycache__/
 
-.DS_Store
 Thumbs.db
+.DS_Store
 
-pokemon-tests/report.html
-
-*.bak
